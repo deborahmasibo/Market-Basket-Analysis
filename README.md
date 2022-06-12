@@ -5,7 +5,6 @@
 The project described below was done with an aim of understanding customer purchasing patterns.
 
 
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -37,6 +36,10 @@ The project described below was done with an aim of understanding customer purch
 
 <!-- PROJECT DESCRIPTION -->
 ## Project Description
+
+
+![alt text](https://healthykajuju.com/wp-content/uploads/2021/10/Carrefour-Logo-jpeg-600x174.jpg)
+
 
 Carrefour Kenya was undertaking a project that would inform the marketing department on the presence of fraudulent sales. They provided a data set from
 which the most important data set variables were to be identified. They aslo provided datasets to be used in the formation and analysis of association rules, 
