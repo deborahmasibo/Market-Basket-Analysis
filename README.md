@@ -38,7 +38,14 @@ The project described below was done with an aim of understanding customer purch
 ## Project Description
 
 
-![alt text](https://healthykajuju.com/wp-content/uploads/2021/10/Carrefour-Logo-jpeg-600x174.jpg)
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="[https://picsum.photos/300/300](https://healthykajuju.com/wp-content/uploads/2021/10/Carrefour-Logo-jpeg-600x174.jpg)"
+  >
+</p>
+
 
 
 Carrefour Kenya was undertaking a project that would inform the marketing department on the presence of fraudulent sales. They provided a data set from
