@@ -40,8 +40,8 @@ The project described below was done with an aim of understanding customer purch
 
 <p align="center">
   <img 
-    width="700"
-    height="700"
+    width="600"
+    height="174"
     src="https://healthykajuju.com/wp-content/uploads/2021/10/Carrefour-Logo-jpeg-600x174.jpg"
   >
 </p>
