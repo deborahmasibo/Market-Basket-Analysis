@@ -108,9 +108,9 @@ The datasets avialed by the client can be downloaded from these links:
 ### RPubs Publication
 
 The final project was published in:
-1. [Part 1 and 2](http://rpubs.com/deborah_masibo/mba_pca_feature_selection)
-2. [Part 3](http://rpubs.com/deborah_masibo/mba_association_rules)
-3. [Part 4](http://rpubs.com/deborah_masibo/mba_anomaly_detection)
+1. [Part 1 and 2]<!--(http://rpubs.com/deborah_masibo/mba_pca_feature_selection)-->
+2. [Part 3]<!--(http://rpubs.com/deborah_masibo/mba_association_rules)-->
+3. [Part 4]<!--(http://rpubs.com/deborah_masibo/mba_anomaly_detection)-->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
