@@ -42,7 +42,7 @@ The project described below was done with an aim of understanding customer purch
   <img 
     width="300"
     height="300"
-    src="[https://picsum.photos/300/300](https://healthykajuju.com/wp-content/uploads/2021/10/Carrefour-Logo-jpeg-600x174.jpg)"
+    src="https://healthykajuju.com/wp-content/uploads/2021/10/Carrefour-Logo-jpeg-600x174.jpg"
   >
 </p>
 
